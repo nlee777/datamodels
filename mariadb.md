@@ -1,0 +1,1 @@
+Information on MariaDB can be found at mariadb.org. It is an open-source RDBMS and is designed for client-server deployment. Java and Python can access MariaDB using JDBC and MariaDB Connector/J, respectively.

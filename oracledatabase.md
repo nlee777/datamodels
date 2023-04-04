@@ -1,0 +1,1 @@
+Information on Oracle Database can be found at https://www.oracle.com/database/. It is a commercial RDBMS that can be deployed as a client-server architecture. Java and Python can access Oracle Database using JDBC and cx_Oracle.

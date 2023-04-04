@@ -1,0 +1,1 @@
+Information on PostgreSQL can be found at https://www.postgresql.org/. It is a relational database management system (RDBMS) and is designed for client-server deployment. Java and Python can access PostgreSQL using JDBC and psycopg2 libraries.
