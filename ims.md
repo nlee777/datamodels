@@ -1,1 +1,1 @@
-Info on IBM Information Management System (IMS) can be found at https://www.ibm.com/products/ims. It is a hierarchical database management system that follows a hierarchical data model and is designed for client-server deployment. Java and Python can access IMS using JDBC and ODBC drivers.
+Info on IBM Information Management System (IMS) can be found at https://www.ibm.com/products/ims. It is a commercial database management system that follows a hierarchical data model and is designed for client-server deployment. Java and Python can access IMS using JDBC and ODBC drivers.
