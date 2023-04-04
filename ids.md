@@ -1,0 +1,1 @@
+Info on Integrated Data Store (IDS) can be found at https://www.computer.org/csdl/magazine/an/2009/04/man2009040042/13rRUNvgzbL. It is a commercial hierarchical database management system has a hierarchical data model and can be deployed as a client-server architecture. Java and Python can access IDS using JDBC and ODBC drivers.
