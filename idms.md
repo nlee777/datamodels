@@ -1,0 +1,1 @@
+Integrated Database Management System (IDMS) has no official website, but here its wikipedia page is https://en.wikipedia.org/wiki/IDMS. It is a commercial database management system that follows a network data model and is designed for client-server deployment. Java and Python can access IDMS using JDBC and ODBC drivers, respectively.
