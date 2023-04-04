@@ -1,0 +1,1 @@
+Info on MySql can be found at mysql.com. It is open-source and of the RDBMS model. MySQL can be deployed as a standalone server but is mostly designed as part of a client-server architecture. Java and Python can access MySQL using JDBC and Connector/Python libraries.
